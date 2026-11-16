@@ -14,3 +14,7 @@ PostgreSQL – Gerenciamento de banco de dados.
 Python / PL/SQL – Manipulação e processamento de dados.
 SQL – Consultas e gerenciamento de dados.
 CSV – Importação, exportação e tratamento de arquivos.
+
+## Observação
+
+O projeto completo foi desenvolvido e está armazenado em outro repositório. Este repositório está sendo utilizado para organizar e realizar as entregas acadêmicas da disciplina, começando pelo **Entregável 1**. Por esse motivo, os arquivos estão sendo publicados aqui gradualmente, conforme o andamento das entregas.
